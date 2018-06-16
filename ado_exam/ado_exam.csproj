@@ -127,6 +127,7 @@
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
     <AppDesigner Include="Properties\" />
+    <None Include="Экзмаен 2 часть.docx" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
